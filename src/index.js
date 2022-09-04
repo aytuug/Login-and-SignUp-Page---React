@@ -11,7 +11,7 @@ import LanguageSelector from './components/LanguageSelector';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <UserSignupPage />
+    <UserLoginPage />
     <LanguageSelector/>
   </React.StrictMode>
 );
